@@ -1,0 +1,8 @@
+feedback_human_writing_style.md
+feedback_unambiguous_korean.md
+feedback_senior_planner_style.md
+feedback_deck_support_role.md
+feedback_web_no_gesture.md
+feedback_reply_in_korean.md
+feedback_no_agent_for_docs.md
+user_identity.md
